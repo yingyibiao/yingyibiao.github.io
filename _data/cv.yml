@@ -11,65 +11,69 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science
-      institution: Purdue University, West Lafayette, Indiana, US
+    - title: Master of Science in Mechanical Engineering
+      institution: Purdue University, West Lafayette, Indiana, USA
       year: 2017
+      - GPA: 3.9/4.0
       description:
-        - Mechanical Engineering
+        - GPA: 3.9/4.0
+        - Emphasized on heat transfer and fluid mechanics.
+        - Initiated independent learning in machine learning and deep learning fields.
+
     - title: Bachelor of Engineering
       institution: Shandong University, Jinan, Shandong, China
       year: 2015
       description:
-        - Energy and Environment System Engineering
+        - GPA: 89/100
+        - Majored in Energy and Environment System Engineering
 
 - title: Experience
   type: time_table
   contents:
     - title: Senior Machine Learning Engineer
-      institution: Learnable.ai
-      year: 08/2022 - now
-    - title: Senior Machine Learning Engineer
-      institution: Baidu
-      year: 12/2020 - 08/2022
+      company: Learnable.ai, Shanghai, China
+      year: 2022 - present
       description:
-        - Worked on PaddleNLP, a NLP toolkit based on PaddlePaddle.
+        - Designed and implemented an intelligent grading system for the K-12 English subject based on English semantics with large language models(LLMs) and Langchain.
+        - Contributed to the official implementation of the intelligent grading system for Translation Questions in the National CET-4 English Test.
+    - title: Senior Machine Learning Engineer
+      company: Baidu, Beijing, China
+      year: 2020 - 2022
+      description:
+        - Proud member of the esteemed DLTP Department, tasked with spearheading the development of Baidu's state-of-the-art deep learning platform, PaddlePaddle.
+        - Integral core team member of the innovative PaddleNLP division.
+        - Contributed significantly to PaddleNLP, a comprehensive and advanced NLP toolkit, grounded in the PaddlePaddle platform.
 
     - title: Machine Learning Engineer
-      institution: 17zuoye
+      institution: 17zuoye, Beijing, China
       year: 05/2018 - 06/2020
+      description:
+        - Worked on grammar error correction, automatic essay scoring, and other NLP tasks.
 
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/PaddlePaddle/PaddleNLP">PaddleNLP</a>
+      year: 2020 - 2022
+      description: A comprehensive and advanced NLP toolkit, grounded in the PaddlePaddle platform.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Chiang Chen Overseas Fellowship(US $50,000)
+        - DAAD-Scholarship for exchange students in Germany
+    - year: 2014
       items: 
-        - Max Planck Medal
+        - Baden-Württemberg Scholarship for exchange students in Germany
+        - Second Prize Scholarship in Shandong University.
+    - year: 2013
+      items: 
+        - Second Prize Scholarship in Shandong University.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Climbing, Hiking, etc.
