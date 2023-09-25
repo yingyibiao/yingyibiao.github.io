@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: PaddleNLP
+description: a comprehensive and advanced NLP toolkit, grounded in the PaddlePaddle platform.
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -30,13 +30,13 @@
   type: time_table
   contents:
     - title: Senior Machine Learning Engineer
-      company: Learnable.ai, Shanghai, China
+      institution: Learnable.ai, Shanghai, China
       year: 2022 - now
       description:
         - Designed and implemented an intelligent grading system for the K-12 English subject based on English semantics with large language models(LLMs) and Langchain.
         - Contributed to the official implementation of the intelligent grading system for Translation Questions in the National CET-4 English Test.
     - title: Senior Machine Learning Engineer
-      company: Baidu, Beijing, China
+      institution: Baidu, Beijing, China
       year: 2020 - 2022
       description:
         - Proud member of the esteemed DLTP Department, tasked with spearheading the development of Baidu's state-of-the-art deep learning platform, PaddlePaddle.
@@ -75,4 +75,4 @@
 - title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Climbing, Hiking, etc.
+    - Hobbies: Climbing, Hiking, etc.
