@@ -15,7 +15,7 @@
       institution: Purdue University, West Lafayette, Indiana, USA
       year: 2017
       description:
-        - GPA: 3.9/4.0
+        - GPA：3.9/4.0
         - Emphasized on heat transfer and fluid mechanics.
         - Initiated independent learning in machine learning and deep learning fields.
 
@@ -23,7 +23,7 @@
       institution: Shandong University, Jinan, Shandong, China
       year: 2015
       description:
-        - GPA: 89/100
+        - GPA：89/100 (Top 10% in the department)
         - Majored in Energy and Environment System Engineering
 
 - title: Experience
@@ -31,7 +31,7 @@
   contents:
     - title: Senior Machine Learning Engineer
       company: Learnable.ai, Shanghai, China
-      year: 2022 - present
+      year: 2022 - now
       description:
         - Designed and implemented an intelligent grading system for the K-12 English subject based on English semantics with large language models(LLMs) and Langchain.
         - Contributed to the official implementation of the intelligent grading system for Translation Questions in the National CET-4 English Test.
@@ -45,7 +45,7 @@
 
     - title: Machine Learning Engineer
       institution: 17zuoye, Beijing, China
-      year: 05/2018 - 06/2020
+      year: 2018 - 2020
       description:
         - Worked on grammar error correction, automatic essay scoring, and other NLP tasks.
 

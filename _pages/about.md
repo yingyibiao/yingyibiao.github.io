@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior algorithm engineer at <a href='http://learnable.ai'>Learnable.AI</a>, Shanghai.
+subtitle: Senior Machine Learning Engineer at <a href='http://learnable.ai'>Learnable.ai</a>.
 
 profile:
   align: right
@@ -18,5 +18,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a senior algorithm engineer at Learnable.AI in Shanghai. Prior to that, I was a senior algorithm engineer at Baidu in Beijing. 
+Currently, I hold the position of a Senior Machine Learning Engineer at Learnable.ai, where my role primarily revolves around the development of automated grading systems intended for K-12 education in China. My day-to-day tasks primarily include working with natural language processing within the system, and I'm currently exploring the use of large language models(LLMs) to potentially improve the system's performance.
+
+Before my term at Learnable.ai, I had a worthwhile experience as a Senior Machine Learning Engineer at Baidu, working on the open-source project PaddleNLP, which is a comprehensive and advanced NLP toolkit, grounded in the PaddlePaddle platform.
+
 I received my master's degree from Purdue University and bachelor's degree from Shandong University.
